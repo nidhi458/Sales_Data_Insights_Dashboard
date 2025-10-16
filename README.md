@@ -1,4 +1,4 @@
-# Sales_Data_Insights_Dashboard-
+# Sales_Data_Insights_Dashboard
 
 **Tech Used:** SQL, Python, pandas, matplotlib, seaborn
 
