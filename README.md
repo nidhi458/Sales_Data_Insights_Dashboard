@@ -23,6 +23,7 @@ This project analyzes Big Mart Sales data to generate actionable business insigh
 2. Run the dashboard: Sales_Data_Insights_Dashboard.ipby
 3. Explore the charts and insights.
 
+Ouput Screenshots:
 <img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/2fa12927-17c8-47a5-a67f-433ebf80ec26" />
 <img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/9f96daf1-7b84-481b-a6eb-8d28c3e4dc03" />
 <img width="691" height="536" alt="image" src="https://github.com/user-attachments/assets/ee53e096-32f8-4baa-a972-8f4928f9f431" />
